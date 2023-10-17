@@ -17,10 +17,10 @@
 - Building a network of like-minded professionals
 
 📫 How to reach me:
-- GitHub: [Your GitHub profile link]
-- LinkedIn: [Your LinkedIn profile link]
-- Email: [Your email address]
-- Portfolio: [Link to your portfolio or personal website]
+- GitHub: [ GitHub profile link]
+- LinkedIn: [ LinkedIn profile link]
+- Email: [didi.mousedidi@outlook.com]
+- Portfolio: [https://mohamed-sdz.github.io/] 
 
 Let's connect, innovate, and build the future together!
 
